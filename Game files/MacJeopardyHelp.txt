@@ -1,0 +1,116 @@
+                             MacJeopardy! Help
+
+This game will allow up to 3 contestants to test their skills against one another.  
+Contestant #1 is on the left and will use the SHIFT KEY on the keyboard to 'buzz in".
+Contestant #2 is in the center and will use the SPACE KEY on the keyboard to 'buzz in".
+Contestant #3 is on the right and will use the CTRL KEY on the keyboard to 'buzz in".
+You can play this game with one, two or three keyboards as long as you properly connect 
+them. To use three on a laptop, I connected one to the PS2 port, one to a USB port, and
+used the one already on the laptop as the third.  This way, each contestant has his own.  
+The EMCEE has the use of the mouse to select items on the screen, before, during and 
+after play.
+
+The first step is to set up the contestants' names.  Use the "Players' Name" entry under 
+File, Setup, on the Menu.  On the screen that comes up, type in each player's name 
+(maximum is 8 characters). Any name left blank will be populated with "Sammy", "Mac", 
+or "Oscar" (contestants 1, 2, 3, respectively).  Hit OK.
+
+Next step is to select a 'picture' for each contestant. There are 7 available, 4 men 
+and 3 women.  Simply click on the image of each one to cycle through all seven.
+
+Next, you must select which game you want to play.  Using the menu again, select Games.  
+On the popup that appears, select the NUMBER of the game you want to play by using the 
+Next and Previous buttons, and then select OK.  A brief description of each game is 
+provided.   Notice that the first time you select Games, only "Jeopardy!" is available.  
+When you complete a regular "Jeopardy!" round, then the second option will be available 
+also, "Double Jeopardy!".  Then, when you complete a "Double Jeopardy!" round, the last 
+option, "Final Jeopardy!", will be available.
+
+After you have selected a game, the Jeopardy screen is displayed with 30 spaces, 5 in 
+each of the six categories (columns).  Each space has been assigned a value ranging 
+from 100 to 500.  In a Double Jeopardy! Game, these values are doubled.  In order to 
+see the six categories, the EMCEE (controller of the mouse) must click on the first 
+category space (The word "Jeopardy!" near the top left of the board).  Each category 
+will be revealed by a timed event (about 3 seconds per category).
+
+After all categories are shown, the game can begin.  Contestant #1 (on the left) goes 
+first in every game.  He tells the EMCEE which category and value he wants to try.  
+When the EMCEE clicks on that category and value, an ANSWER is displayed.  At that 
+point, ANY OF THE contestants can 'buzz in' (by pushing his assigned keyboard key).  
+The FIRST one that buzzes in, will get to provide a response, IN THE FORM OF A 
+QUESTION. The EMCEE can be lenient, prompting the contestant to rephrase in the form 
+of a question if he/she does not the first time.  If the contestant gets the response 
+correct, the EMCEE must click the "Correct" button.  Similarly, if the contestant 
+guesses incorrectly, the EMCEE will click the "Incorrect" button.  Whenever the first 
+or second contestant buzzes in and guesses incorrectly, the option remains open for 
+any remaining contestant to provide a response (it is not required for ANY contestant 
+to respond).  A correct response will increase the contestant's score by the amount 
+clicked on by the EMCEE.  As well, and incorrect response, or waiting too long (15 
+seconds) after buzzing in, will DE-crease the contestant's score by that value.  If 
+NO contestant buzzes in before the allotted time (also 15 seconds), then the "Correct" 
+and "Incorrect" buttons will disappear, and the EMCEE must then click on the remaining 
+"Jeopardy" button.
+
+When any contestant buzzes in, the computer knows which one did it first (by 
+milliseconds), that contestant's Name will be in a Red background, indicating that 
+he/she can give a response.  It will lock out the other remaining contestants.  Once a 
+response is given and the EMCEE clicks any of the buttons on that popup, all 
+contestants' names will reappear with a White background.
+
+When a contestant guesses correctly, a green circle will show on the 'podium' of that 
+contestant.  If a contestant guesses incorrectly, the green circle will remain with 
+the contestant that last guessed correctly.  Wherever the green circle is, that 
+contestant gets to ask the EMCEE for the next category/value combination.
+
+The Daily Double.  Each "Jeopardy!" round will have one category/value combination as 
+a Daily Double.  When this is chosen by a contestant, a popup will appear that will 
+give the EMCEE (or the contestant at the direction of the EMCEE) the opportunity to 
+type in a value that the contestant wants to wager.  The contestant may choose any 
+value from 5 to the amount he currently has (he/she HAS to wager at least 5).  If a 
+Daily Double is the FIRST category/value selected in a game, the contestant may wager 
+up to that value of that category/value combination.  Once that is done and the OK 
+button is selected, the ANSWER will appear that contestant (and that contestant only) 
+will be afforded a 15-second opportunity to provide a proper response.  If he guesses 
+correctly, his score will be increased by TWICE the amount he wagered.  If he guesses 
+incorrectly, however, his score will only be decreased by the actual number wagered, 
+not twice.  In each "Double Jeopardy!" round, there are two Daily Doubles.  A True 
+Daily Double is when a contestant wagers all he has.
+
+At the completion of the "Jeopardy!" round, the EMCEE will select the "Double 
+Jeopardy!" round from the menu bar under Games, and procedures used in this round 
+will be like that in the first.  At the completion of a "Double Jeopardy!" round, 
+the EMCEE will select the "Final Jeopardy!" round from the menu.  A complete game 
+of "MacJeopardy!" consists of one "Jeopardy!" round, one "Double Jeopardy!" round, 
+and one "Final Jeopardy!" round.
+
+When the "Final Jeopardy!" game is played, a screen will appear with a rectangle in 
+the center, called "JEOPARDY!".  The EMCEE will click on that rectangle and a CATEGORY 
+will be displayed.  At that time, each contestant is to write down the amount he/she 
+would like to wager in this game.  He/she may wager from zero (0) to as much as he/she 
+has accumulated.  If a player has LESS THAN ZERO, he/she may not participate in this 
+round, however if a contestant has zero, he/she may play (of course his/her wager will 
+have to be zero).
+
+Once these values are secretly recorded in front of each participating contestant, the 
+EMCEE will click on the CATEGORY shown.  The ANSWER will appear and the 'FINAL 
+JEOPARDY!" music will play for 30 seconds.  During that time, each participating 
+contestant may write down on a sheet of paper, his/her response, in a question form.  
+When the song ends, the names of the contestants will be shown, along with spaces for 
+the EMCEE to type in the wagers revealed by each contestant in turn, starting with the 
+contestant with the lowest accumulated score at that point. The EMCEE (or the 
+contestant at the direction of the EMCEE) will type in that wager for that contestant.  
+If the contestant responded correctly, the EMCEE will click the "Correct" button.  If 
+not, the EMCEE will click the "Wrong" button.  This will either add the wager to the 
+contestant's score, or subtract it.   (If at any time during the entire game that a 
+mistake is made in the contestants' scores (e.g. maybe the EMCEE clicked the wrong 
+button), the EMCEE may go to the menu bar and select the option, Score Corrections, 
+under, File, Setup, and make changes to the scores on the popup.)
+
+The contestant with the highest value after all rounds, wins the game.
+
+
+
+
+
+
+
